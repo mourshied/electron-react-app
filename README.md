@@ -1,2 +1,2 @@
 # electron-react-app
-1st dexttop app, 
+1st desktop app, 
